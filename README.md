@@ -23,6 +23,10 @@ docer-compose up -d
 ```
 yarn add @nestjs/mongoose mongoose
 ```
+6. Reconstruir la base de datos con la semilla
+```
+localhost:3000/api/v2/seed
+```
 
 ## Stack usado
 * Mongo DB
